@@ -19,8 +19,8 @@
                 <RadioButton x:Name="rdbBird" Content="Vogel" HorizontalAlignment="Left" Height="22" Margin="107,10,0,0" VerticalAlignment="Top" Width="97" />
                 <Label Content="Soort : " HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
                 <ComboBox x:Name="cmbSpecies" HorizontalAlignment="Left" Margin="92,47,0,0" VerticalAlignment="Top" Width="204" />
-                <Label x:Name="lblRace" Content="Ras : " HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top"/>
-                <TextBox x:Name="txtRace" HorizontalAlignment="Left" Height="23" Margin="92,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204"/>
+                <Label x:Name="lblBreed" Content="Ras : " HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtBreed" HorizontalAlignment="Left" Height="23" Margin="92,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204"/>
                 <Label Content="Roepnaam : " HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top"/>
                 <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="92,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204"/>
                 <Label  Content="Geboortedatum : " HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top"/>
