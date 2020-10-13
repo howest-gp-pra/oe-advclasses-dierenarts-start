@@ -6,7 +6,7 @@ namespace Pra.Dierenarts.CORE
 {
     public class AnimalSpecies
     {
-        public static string[] Mamels = { "Hond", "Kat", "Hamster", "Hangbuikvarken" };
+        public static string[] Mammals = { "Hond", "Kat", "Hamster", "Hangbuikvarken" };
         public static string[] Birds = { "Kip", "Kanarie", "Parkiet" };
     }
 }
